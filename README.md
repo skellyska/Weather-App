@@ -3,4 +3,4 @@ A web based weather app built using HTML, CSS, and Javascript. The app takes use
 
  ## Screenshot
 
-![Screenshot for the Intro component of weather app](weather-app-screenshot.png)
+[![weather-app-screenshot.png](https://i.postimg.cc/C1tSJP2D/weather-app-screenshot.png)](https://postimg.cc/R6ckZR4V)
